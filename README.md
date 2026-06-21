@@ -73,15 +73,6 @@ src/
 
 ## 5. コンパイルと実行
 
-### コンパイル
-
 ```text
-javac -d bin Main.java
+java Main.java
 ```
-
-### 実行
-
-```text
-java -cp bin Main.java
-```
-
