@@ -72,5 +72,4 @@ src/
 <<<<<<< HEAD
 
 ## 5. コンパイル方法
-=======
->>>>>>> branch 'master' of git@github.com.corekara:corekaraweb/javasebronzeblack.git
+
